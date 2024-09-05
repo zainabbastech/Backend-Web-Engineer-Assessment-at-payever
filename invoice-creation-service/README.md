@@ -16,9 +16,11 @@ This system manages sales invoices and generates daily sales summary reports. It
 
 1. **Clone the Repository**
 
-   ```bash
-   git clone https://your-repository-url.git
-   cd your-repository-folder
+```bash
+ $  git clone https://github.com/zainabbastech/Backend-Web-Engineer-Assessment-at-payever.git
+ $  cd email-sender-service
+ $  cd invoice-creation-service
+```
 
 
 # Invoice Creation Service
@@ -76,4 +78,7 @@ $ npm run test:e2e
 
 # test coverage
 $ npm run test:cov
+
+# Node version
+$ v18.8.0
 ```
